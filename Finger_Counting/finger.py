@@ -77,10 +77,3 @@ while True:
     
     
         
-    
-"""
-makaleden yola çıkarak iyi atıflar yapmak 
-kaggledan yola çıkarak oradakilere atıf yapmak
-Yöntemde lgbm yazcaz 
-
-"""
